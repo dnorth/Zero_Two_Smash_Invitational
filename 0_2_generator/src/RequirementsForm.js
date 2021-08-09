@@ -6,32 +6,39 @@ const RequirementsForm = ({ criteria: defaultCriteriaState, onSubmit }) => {
 
     return (
         <form onSubmit={(evt) => submitForm(evt, onSubmit, requirementData)} className="requirementsForm">
-            <label>
+            <label className="formLabel">
                 <div>Minimum Number of Tournaments Entered:</div>
                 <input
+                    className="scoreInput scoreEnding"
                     type="number"
                     value={requirementData.minTournaments}
                     onChange={e => setRequirementData({...requirementData, minTournaments: e.target.value })}
                 />
             </label>
-            <label>
-                <div>Lowest Scoring Tournament:</div>
+            <label className="formLabel">
+                <div>Minimum Score:</div>
                 <input
+                    className="scoreInput scoreEnding"
                     type="number"
                     value={requirementData.lowestScoringTournament}
                     onChange={e => setRequirementData({...requirementData, lowestScoringTournament: e.target.value })}
                 />
+                <div className="scoreEnding"> - 2</div>
             </label>
-            <label>
-                <div>Highest Scoring Tournament:</div>
+            <label className="formLabel">
+                <div>Maximum Score:</div>
                 <input
+                    className="scoreInput scoreEnding"
                     type="number"
                     value={requirementData.highestScoringTournament}
                     onChange={e => setRequirementData({...requirementData, highestScoringTournament: e.target.value })}
                 />
+                <div className="scoreEnding"> - 2</div>
             </label>
 
-            <input type="submit" value="Calculate" />
+            <label className="formLabel">
+                <input type="submit" value="Calculate" />
+            </label>
         </form>
     )
 }

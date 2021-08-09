@@ -5,7 +5,7 @@ export const calculatePlayersFromCriteria = (criteria) => {
 
     const playersThatMeetCriteria = allPlayerResults.filter(player => 
             player.numTournamentsEntered >= criteria.minTournaments
-        && player.lowestScoringTournament <= criteria.lowestScoringTournament
+        && player.lowestScoringTournament >= criteria.lowestScoringTournament
         && player.highestScoringTournament <= criteria.highestScoringTournament
     );
 
@@ -17,6 +17,7 @@ export const calculatePlayersFromCriteria = (criteria) => {
     */
     playersThatMeetCriteria.sort((a, b) => 
         b.highestScoringTournament - a.highestScoringTournament
+        || b.lowestScoringTournament - a.lowestScoringTournament
         || b.numTournamentsEntered - a.numTournamentsEntered
         || a.tag.localeCompare(b.tag)
     )
@@ -94,7 +95,9 @@ const mapAllTournamentsResults = (tournaments) => {
                         ],
                         numTournamentsEntered: overallPlayerResults.numTournamentsEntered + 1,
                         lowestScoringTournament: Math.min(overallPlayerResults.lowestScoringTournament, playerTourneyResults.wins),
-                        highestScoringTournament: Math.max(overallPlayerResults.highestScoringTournament, playerTourneyResults.wins)
+                        highestScoringTournament: Math.max(overallPlayerResults.highestScoringTournament, playerTourneyResults.wins),
+                        lowestScoringTournamentString: ` ${Math.min(overallPlayerResults.lowestScoringTournament, playerTourneyResults.wins)}-2`,
+                        highestScoringTournamentString: ` ${Math.max(overallPlayerResults.highestScoringTournament, playerTourneyResults.wins)}-2`,
                     }
             }
         })

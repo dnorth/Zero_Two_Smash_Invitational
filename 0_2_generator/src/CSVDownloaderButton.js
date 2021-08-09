@@ -6,8 +6,8 @@ const CSVDownloaderButton = ({ players }) => {
     const headers = [
         { label: 'Tag', key: 'tag' },
         { label: 'Number of tournaments entered', key: 'numTournamentsEntered'},
-        { label: 'Lowest scoring tournament', key: 'lowestScoringTournament' },
-        { label: 'Highest scoring tournament', key: 'highestScoringTournament' },
+        { label: 'Lowest scoring tournament', key: 'lowestScoringTournamentString' },
+        { label: 'Highest scoring tournament', key: 'highestScoringTournamentString' },
     ]
 
     return (

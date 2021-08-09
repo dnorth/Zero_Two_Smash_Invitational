@@ -1,3 +1,18 @@
 .requirementsForm {
     padding: 20px;
 }
+
+.scoreInput {
+    width: 30px;
+}
+
+.formLabel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4px;
+}
+
+.scoreEnding {
+    margin-left: 4px;
+}
