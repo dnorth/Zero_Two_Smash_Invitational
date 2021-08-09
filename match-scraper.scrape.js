@@ -8,7 +8,7 @@ describe('Scraping site', () => {
         const tournamentName = tourneyNameArr[0].replaceAll('/', '|')
         console.log('name: ', tournamentName)
 
-        const losers = await promisify(getValuesFromTable('.tournament_encounter_opponent.loser'))
+        const losers = await promisify(getValuesFromTable('.tournament_encounter_opponent.loser,.tournament_encounter_opponent.bye'))
         const losersScores = await promisify(getValuesFromTable('.tournament_encounter-score.loser'))
 
         const winners = await promisify(getValuesFromTable('.tournament_encounter_opponent.winner'))
@@ -23,7 +23,9 @@ describe('Scraping site', () => {
             }
         })
 
-        cy.writeFile(`./scraped_results/${tournamentName}.json`, tournament)
+        const tournamentMinusByes = tournament.filter(match => match.loser != 'Bye');
+
+        cy.writeFile(`./scraped_results/${tournamentName}.json`, tournamentMinusByes)
         console.log('Done.')
     })
 })
