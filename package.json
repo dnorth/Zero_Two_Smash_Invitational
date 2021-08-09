@@ -4,8 +4,7 @@
   "description": "uses cypress to get braacket results",
   "main": "index.js",
   "dependencies": {
-    "cypress": "^8.1.0",
-    "react-csv": "^2.0.3"
+    "cypress": "^8.1.0"
   },
   "devDependencies": {
     "cypress-promise": "^1.1.0"
