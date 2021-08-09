@@ -1,0 +1,8 @@
+.playerArea {
+    padding: 16px;
+    background: gray;
+}
+
+.playerList {
+    list-style-type: none;
+}

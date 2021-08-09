@@ -1,0 +1,662 @@
+[
+  {
+    "loser": ".",
+    "loserScore": "0",
+    "winner": "Fusion",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "BeTaV",
+    "loserScore": "0",
+    "winner": "TZL | Cyan",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Emo",
+    "loserScore": "0",
+    "winner": "OD | Ty",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Lundissimo",
+    "loserScore": "0",
+    "winner": "Cerebro",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Goldstone",
+    "loserScore": "0",
+    "winner": "TZL | Royal Blue",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Nan",
+    "loserScore": "0",
+    "winner": "TZL | Kodisnap",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Kirbs",
+    "loserScore": "0",
+    "winner": "TZL | JPlay",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Elfy",
+    "loserScore": "0",
+    "winner": "B1",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Lv9 | KazuyaCPU",
+    "loserScore": "1",
+    "winner": "zucc",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "JayPuppy",
+    "loserScore": "1",
+    "winner": "Stankler",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Sfordy",
+    "loserScore": "0",
+    "winner": "Chusta",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "GD | LoTier",
+    "loserScore": "1",
+    "winner": "LP | Beat",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Zolda",
+    "loserScore": "0",
+    "winner": "TwE | Skyloftian",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Mr. Straightballin",
+    "loserScore": "0",
+    "winner": "FroZn",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "1",
+    "loserScore": "0",
+    "winner": "SpeedyBlueDude",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Sludgeboy",
+    "loserScore": "0",
+    "winner": "JayFlyT",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "JoGBear",
+    "loserScore": "0",
+    "winner": "Yannack",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Tanner",
+    "loserScore": "1",
+    "winner": "thatsnomoon",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Peaches",
+    "loserScore": "0",
+    "winner": "Toadindigo",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "LP | Beat",
+    "loserScore": "0",
+    "winner": "LK | PiXL",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "TwE | Buffalo",
+    "loserScore": "1",
+    "winner": "Hyperi0n",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "iamfriendly",
+    "loserScore": "0",
+    "winner": "Clockwork",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Fatboy",
+    "loserScore": "1",
+    "winner": "Dalhpal",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Difu",
+    "loserScore": "0",
+    "winner": "ChrispyKing",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Stankler",
+    "loserScore": "0",
+    "winner": "LK | Kreeg",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Zolda",
+    "loserScore": "0",
+    "winner": "Sfordy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "TZL | Royal Blue",
+    "loserScore": "1",
+    "winner": "TZL | JPlay",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "UVU | TuesdayTastic",
+    "loserScore": "0",
+    "winner": "Splash Daddy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "fats",
+    "loserScore": "1",
+    "winner": "thwithk~",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "thatsnomoon",
+    "loserScore": "0",
+    "winner": "VaLoR",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "1",
+    "loserScore": "0",
+    "winner": "Fatboy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Emo",
+    "loserScore": "1",
+    "winner": "Lundissimo",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Yannack",
+    "loserScore": "0",
+    "winner": "Scend",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Goldstone",
+    "loserScore": "0",
+    "winner": "Kirbs",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "iamfriendly",
+    "loserScore": "0",
+    "winner": "TwE | Buffalo",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Nan",
+    "loserScore": "0",
+    "winner": "Stankler",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "GD | LoTier",
+    "loserScore": "0",
+    "winner": "TZL | Royal Blue",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Difu",
+    "loserScore": "0",
+    "winner": "Elfy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Peaches",
+    "loserScore": "0",
+    "winner": "Nan",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "ChrispyKing",
+    "loserScore": "1",
+    "winner": "B1",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Cerebro",
+    "loserScore": "1",
+    "winner": "OD | Ty",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "zucc",
+    "loserScore": "0",
+    "winner": "JayFlyT",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Dalhpal",
+    "loserScore": "0",
+    "winner": "SpeedyBlueDude",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Chusta",
+    "loserScore": "0",
+    "winner": "TwE | Skyloftian",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Sfordy",
+    "loserScore": "0",
+    "winner": "UVU | TuesdayTastic",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Lv9 | KazuyaCPU",
+    "loserScore": "0",
+    "winner": "Sludgeboy",
+    "winnersScore": "1"
+  },
+  {
+    "loser": "Mr. Straightballin",
+    "loserScore": "1",
+    "winner": "fats",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "thwithk~",
+    "loserScore": "0",
+    "winner": "FroZn",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Sweatbands",
+    "loserScore": "0",
+    "winner": "Fusion",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "TZL | Kodisnap",
+    "loserScore": "0",
+    "winner": "Toadindigo",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Kirbs",
+    "loserScore": "1",
+    "winner": "LP | Beat",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Hyperi0n",
+    "loserScore": "0",
+    "winner": "Clockwork",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "BeTaV",
+    "loserScore": "1",
+    "winner": "Dalhpal",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "TwE | ABZ",
+    "loserScore": "1",
+    "winner": "TZL | Cyan",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Lundissimo",
+    "loserScore": "0",
+    "winner": "thatsnomoon",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "JoGBear",
+    "loserScore": "0",
+    "winner": "thwithk~",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "zucc",
+    "loserScore": "1",
+    "winner": "Elfy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "TwE | Buffalo",
+    "loserScore": "0",
+    "winner": "Sweatbands",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Tanner",
+    "loserScore": "1",
+    "winner": "Cerebro",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "SpeedyBlueDude",
+    "loserScore": "1",
+    "winner": "FroZn",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "TZL | Royal Blue",
+    "loserScore": "1",
+    "winner": "UVU | TuesdayTastic",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "JayPuppy",
+    "loserScore": "0",
+    "winner": "TZL | Kodisnap",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Sludgeboy",
+    "loserScore": "0",
+    "winner": "ChrispyKing",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Yannack",
+    "loserScore": "0",
+    "winner": "fats",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Hyperi0n",
+    "loserScore": "0",
+    "winner": ".",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Cerebro",
+    "loserScore": "0",
+    "winner": "Sweatbands",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "B1",
+    "loserScore": "1",
+    "winner": "LK | Kreeg",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Stankler",
+    "loserScore": "0",
+    "winner": "ChrispyKing",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "TwE | ABZ",
+    "loserScore": "1",
+    "winner": "Fatboy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Toadindigo",
+    "loserScore": "0",
+    "winner": "JayFlyT",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "UVU | TuesdayTastic",
+    "loserScore": "0",
+    "winner": "SpeedyBlueDude",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "TwE | Skyloftian",
+    "loserScore": "0",
+    "winner": "LK | PiXL",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "TZL | JPlay",
+    "loserScore": "0",
+    "winner": "Splash Daddy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Fusion",
+    "loserScore": "1",
+    "winner": "OD | Ty",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "LP | Beat",
+    "loserScore": "1",
+    "winner": "Chusta",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "thwithk~",
+    "loserScore": "1",
+    "winner": "Dalhpal",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Elfy",
+    "loserScore": "1",
+    "winner": "TZL | Kodisnap",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Clockwork",
+    "loserScore": "0",
+    "winner": "VaLoR",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "fats",
+    "loserScore": "0",
+    "winner": "Fatboy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Splash Daddy",
+    "loserScore": "0",
+    "winner": "LK | Kreeg",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "thatsnomoon",
+    "loserScore": "1",
+    "winner": "B1",
+    "winnersScore": "2"
+  },
+  {
+    "loser": ".",
+    "loserScore": "0",
+    "winner": "thatsnomoon",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Fusion",
+    "loserScore": "0",
+    "winner": "TZL | Kodisnap",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Toadindigo",
+    "loserScore": "0",
+    "winner": "Sweatbands",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Dalhpal",
+    "loserScore": "1",
+    "winner": "TZL | JPlay",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "TZL | Cyan",
+    "loserScore": "1",
+    "winner": "Scend",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Clockwork",
+    "loserScore": "1",
+    "winner": "ChrispyKing",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "FroZn",
+    "loserScore": "1",
+    "winner": "VaLoR",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Fatboy",
+    "loserScore": "0",
+    "winner": "TwE | Skyloftian",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "JayFlyT",
+    "loserScore": "0",
+    "winner": "LK | PiXL",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "ChrispyKing",
+    "loserScore": "0",
+    "winner": "SpeedyBlueDude",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Chusta",
+    "loserScore": "0",
+    "winner": "TZL | Cyan",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "B1",
+    "loserScore": "0",
+    "winner": "TZL | JPlay",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "OD | Ty",
+    "loserScore": "0",
+    "winner": "Scend",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Sweatbands",
+    "loserScore": "0",
+    "winner": "TwE | Skyloftian",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "TZL | JPlay",
+    "loserScore": "0",
+    "winner": "JayFlyT",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "TZL | Cyan",
+    "loserScore": "0",
+    "winner": "TZL | Kodisnap",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "SpeedyBlueDude",
+    "loserScore": "1",
+    "winner": "OD | Ty",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "VaLoR",
+    "loserScore": "0",
+    "winner": "LK | PiXL",
+    "winnersScore": "3"
+  },
+  {
+    "loser": "TwE | Skyloftian",
+    "loserScore": "0",
+    "winner": "Splash Daddy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "TZL | Kodisnap",
+    "loserScore": "1",
+    "winner": "FroZn",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "LK | Kreeg",
+    "loserScore": "0",
+    "winner": "Scend",
+    "winnersScore": "3"
+  },
+  {
+    "loser": "Splash Daddy",
+    "loserScore": "1",
+    "winner": "OD | Ty",
+    "winnersScore": "3"
+  },
+  {
+    "loser": "JayFlyT",
+    "loserScore": "1",
+    "winner": "FroZn",
+    "winnersScore": "3"
+  },
+  {
+    "loser": "LK | PiXL",
+    "loserScore": "2",
+    "winner": "Scend",
+    "winnersScore": "3"
+  },
+  {
+    "loser": "OD | Ty",
+    "loserScore": "0",
+    "winner": "VaLoR",
+    "winnersScore": "3"
+  },
+  {
+    "loser": "FroZn",
+    "loserScore": "1",
+    "winner": "LK | Kreeg",
+    "winnersScore": "3"
+  },
+  {
+    "loser": "LK | Kreeg",
+    "loserScore": "0",
+    "winner": "VaLoR",
+    "winnersScore": "3"
+  },
+  {
+    "loser": "VaLoR",
+    "loserScore": "1",
+    "winner": "LK | PiXL",
+    "winnersScore": "3"
+  },
+  {
+    "loser": "LK | PiXL",
+    "loserScore": "0",
+    "winner": "Scend",
+    "winnersScore": "3"
+  }
+]

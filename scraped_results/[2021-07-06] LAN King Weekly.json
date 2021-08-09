@@ -1,0 +1,998 @@
+[
+  {
+    "loser": "BamboozleBoy",
+    "loserScore": "0",
+    "winner": "Yodu",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "MrStr8ballin",
+    "loserScore": "0",
+    "winner": "Inertia",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "A Narwhal",
+    "loserScore": "0",
+    "winner": "Instantwish",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Gamewolf",
+    "loserScore": "0",
+    "winner": "thatsnomoon",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Worst Ness",
+    "loserScore": "0",
+    "winner": "Grimace",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Inertia",
+    "loserScore": "0",
+    "winner": "MR.GAMER24",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Yodu",
+    "loserScore": "0",
+    "winner": "Scend",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "TJPhatty",
+    "loserScore": "1",
+    "winner": "Ziplok",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Instantwish",
+    "loserScore": "0",
+    "winner": "Fusion",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "thatsnomoon",
+    "loserScore": "0",
+    "winner": "Royal Blue",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Ziplok",
+    "loserScore": "0",
+    "winner": "Ogreb",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "smeez",
+    "loserScore": "1",
+    "winner": "Khgamer2016",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "MR.GAMER24",
+    "loserScore": "0",
+    "winner": "Scend",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Grimace",
+    "loserScore": "0",
+    "winner": "ABZ",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Royal Blue",
+    "loserScore": "0",
+    "winner": "Fusion",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "TrashPidgey",
+    "loserScore": "0",
+    "winner": "Sticccy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Khgamer2016",
+    "loserScore": "0",
+    "winner": "Echelon",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Gamewolf",
+    "loserScore": "0",
+    "winner": "Ziplok",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "TrashPidgey",
+    "loserScore": "0",
+    "winner": "BamboozleBoy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "ABZ",
+    "loserScore": "1",
+    "winner": "Ogreb",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "TJPhatty",
+    "loserScore": "0",
+    "winner": "thatsnomoon",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "MrStr8ballin",
+    "loserScore": "0",
+    "winner": "Khgamer2016",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Worst Ness",
+    "loserScore": "0",
+    "winner": "Instantwish",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "A Narwhal",
+    "loserScore": "0",
+    "winner": "Grimace",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "smeez",
+    "loserScore": "0",
+    "winner": "Inertia",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "BamboozleBoy",
+    "loserScore": "0",
+    "winner": "Khgamer2016",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Instantwish",
+    "loserScore": "0",
+    "winner": "thatsnomoon",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Grimace",
+    "loserScore": "1",
+    "winner": "Ziplok",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Sticccy",
+    "loserScore": "0",
+    "winner": "Echelon",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Fusion",
+    "loserScore": "0",
+    "winner": "Scend",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Inertia",
+    "loserScore": "0",
+    "winner": "Yodu",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Ziplok",
+    "loserScore": "0",
+    "winner": "MR.GAMER24",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Khgamer2016",
+    "loserScore": "0",
+    "winner": "Royal Blue",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Echelon",
+    "loserScore": "0",
+    "winner": "Ogreb",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "ABZ",
+    "loserScore": "0",
+    "winner": "Yodu",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "MR.GAMER24",
+    "loserScore": "0",
+    "winner": "Royal Blue",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "thatsnomoon",
+    "loserScore": "0",
+    "winner": "Sticccy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Yodu",
+    "loserScore": "0",
+    "winner": "Sticccy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Echelon",
+    "loserScore": "1",
+    "winner": "Royal Blue",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Sticccy",
+    "loserScore": "0",
+    "winner": "Fusion",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "MyDadHatesMe420",
+    "loserScore": "0",
+    "winner": "Snow",
+    "winnersScore": "1"
+  },
+  {
+    "loser": "Nasty",
+    "loserScore": "0",
+    "winner": "GSL",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "tryashtar",
+    "loserScore": "0",
+    "winner": "VildeScarz",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Theocatic",
+    "loserScore": "1",
+    "winner": "Beat",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Picnic",
+    "loserScore": "0",
+    "winner": "AquaBox",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "SnorHAX",
+    "loserScore": "0",
+    "winner": "Skinsky",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "bl00dfalcon",
+    "loserScore": "0",
+    "winner": "Spark",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Snow",
+    "loserScore": "0",
+    "winner": "PiXL",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "GSL",
+    "loserScore": "0",
+    "winner": "SOLDIER1st",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Peewin jr?",
+    "loserScore": "0",
+    "winner": "RedK",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Beat",
+    "loserScore": "0",
+    "winner": "Yep",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Spark",
+    "loserScore": "0",
+    "winner": "Cyan",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "VildeScarz",
+    "loserScore": "0",
+    "winner": "Zurg",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Snow",
+    "loserScore": "0",
+    "winner": "bl00dfalcon",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Skinsky",
+    "loserScore": "0",
+    "winner": "Ty",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Picnic",
+    "loserScore": "0",
+    "winner": "Beat",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "SnorHAX",
+    "loserScore": "0",
+    "winner": "VildeScarz",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "AquaBox",
+    "loserScore": "0",
+    "winner": "Kodisnap",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "RedK",
+    "loserScore": "0",
+    "winner": "Mamba",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "MyDadHatesMe420",
+    "loserScore": "0",
+    "winner": "Spark",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Peewin jr?",
+    "loserScore": "0",
+    "winner": "bl00dfalcon",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Theocatic",
+    "loserScore": "0",
+    "winner": "AquaBox",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "tryashtar",
+    "loserScore": "1",
+    "winner": "Skinsky",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Nasty",
+    "loserScore": "0",
+    "winner": "RedK",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Beat",
+    "loserScore": "1",
+    "winner": "VildeScarz",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "RedK",
+    "loserScore": "0",
+    "winner": "Spark",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Cyan",
+    "loserScore": "0",
+    "winner": "Mamba",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Kodisnap",
+    "loserScore": "0",
+    "winner": "Ty",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "SOLDIER1st",
+    "loserScore": "1",
+    "winner": "PiXL",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Skinsky",
+    "loserScore": "1",
+    "winner": "AquaBox",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Zurg",
+    "loserScore": "0",
+    "winner": "Yep",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "VildeScarz",
+    "loserScore": "1",
+    "winner": "Cyan",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Spark",
+    "loserScore": "0",
+    "winner": "Zurg",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "bl00dfalcon",
+    "loserScore": "1",
+    "winner": "Kodisnap",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Ty",
+    "loserScore": "1",
+    "winner": "Mamba",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "AquaBox",
+    "loserScore": "0",
+    "winner": "SOLDIER1st",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Yep",
+    "loserScore": "1",
+    "winner": "PiXL",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Cyan",
+    "loserScore": "1",
+    "winner": "Kodisnap",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "SOLDIER1st",
+    "loserScore": "0",
+    "winner": "Zurg",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Yep",
+    "loserScore": "0",
+    "winner": "Kodisnap",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Zurg",
+    "loserScore": "1",
+    "winner": "Ty",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Xeno",
+    "loserScore": "0",
+    "winner": "Lundissimo",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "3",
+    "loserScore": "0",
+    "winner": "Glutenfree",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "gojira!",
+    "loserScore": "1",
+    "winner": "Blackthorn",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Bob",
+    "loserScore": "1",
+    "winner": "Melodic",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Money Micheal",
+    "loserScore": "0",
+    "winner": "Jank",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "DarkCougarZ",
+    "loserScore": "0",
+    "winner": "Mix",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "LazyJelly",
+    "loserScore": "1",
+    "winner": "Stankler",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "typical_twiggy",
+    "loserScore": "1",
+    "winner": "Blobbinn",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Inca",
+    "loserScore": "1",
+    "winner": "Frisk",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Melodic",
+    "loserScore": "1",
+    "winner": "Kreeg",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Lundissimo",
+    "loserScore": "0",
+    "winner": "J.P.",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Jank",
+    "loserScore": "1",
+    "winner": "Cdowg",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Stankler",
+    "loserScore": "1",
+    "winner": "JPlay",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Frisk",
+    "loserScore": "0",
+    "winner": "Glutenfree",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Blobbinn",
+    "loserScore": "0",
+    "winner": "MattBro",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Blackthorn",
+    "loserScore": "0",
+    "winner": "JayFlyT",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Mix",
+    "loserScore": "0",
+    "winner": "Oa",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "DarkCougarZ",
+    "loserScore": "0",
+    "winner": "Melodic",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Inca",
+    "loserScore": "1",
+    "winner": "Blobbinn",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "gojira!",
+    "loserScore": "0",
+    "winner": "Jank",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "LazyJelly",
+    "loserScore": "0",
+    "winner": "Lundissimo",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Mix",
+    "loserScore": "1",
+    "winner": "Bob",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Xeno",
+    "loserScore": "0",
+    "winner": "Stankler",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "JPlay",
+    "loserScore": "0",
+    "winner": "JayFlyT",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "typical_twiggy",
+    "loserScore": "0",
+    "winner": "Frisk",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Lundissimo",
+    "loserScore": "0",
+    "winner": "Jank",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Bob",
+    "loserScore": "0",
+    "winner": "Blobbinn",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Frisk",
+    "loserScore": "0",
+    "winner": "Melodic",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Blobbinn",
+    "loserScore": "0",
+    "winner": "JPlay",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Money Micheal",
+    "loserScore": "0",
+    "winner": "Blackthorn",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Blackthorn",
+    "loserScore": "0",
+    "winner": "Stankler",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Oa",
+    "loserScore": "0",
+    "winner": "MattBro",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Glutenfree",
+    "loserScore": "1",
+    "winner": "Kreeg",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Stankler",
+    "loserScore": "0",
+    "winner": "Oa",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Cdowg",
+    "loserScore": "1",
+    "winner": "J.P.",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "JayFlyT",
+    "loserScore": "0",
+    "winner": "Kreeg",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Glutenfree",
+    "loserScore": "0",
+    "winner": "Jank",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Jank",
+    "loserScore": "0",
+    "winner": "JPlay",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Melodic",
+    "loserScore": "0",
+    "winner": "Cdowg",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "MattBro",
+    "loserScore": "0",
+    "winner": "J.P.",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Cdowg",
+    "loserScore": "0",
+    "winner": "Oa",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "JPlay",
+    "loserScore": "0",
+    "winner": "MattBro",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "JayFlyT",
+    "loserScore": "1",
+    "winner": "Oa",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Sauce",
+    "loserScore": "0",
+    "winner": "LilliamBigglenickle",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Muffin Man",
+    "loserScore": "0",
+    "winner": "xKaylor",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Silks",
+    "loserScore": "1",
+    "winner": "Juice",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "DaddyChrom",
+    "loserScore": "0",
+    "winner": "BERD",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "ERated4Epic",
+    "loserScore": "1",
+    "winner": "Yin",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Woot9697",
+    "loserScore": "0",
+    "winner": "Kapn",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "BERD",
+    "loserScore": "0",
+    "winner": "Player 0",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Boof",
+    "loserScore": "0",
+    "winner": "ShyJim",
+    "winnersScore": "3"
+  },
+  {
+    "loser": "Extremideez",
+    "loserScore": "1",
+    "winner": "Frizzy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Yin",
+    "loserScore": "0",
+    "winner": "Splash Daddy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "xKaylor",
+    "loserScore": "0",
+    "winner": "Toadindigo",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "LilliamBigglenickle",
+    "loserScore": "1",
+    "winner": "B1",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "ShyJim",
+    "loserScore": "1",
+    "winner": "ColdWeatherr",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Extremideez",
+    "loserScore": "0",
+    "winner": "LilliamBigglenickle",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "BERD",
+    "loserScore": "0",
+    "winner": "Boof",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Juice",
+    "loserScore": "0",
+    "winner": "SpeedyBlueDude",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Muffin Man",
+    "loserScore": "1",
+    "winner": "Yin",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "xKaylor",
+    "loserScore": "1",
+    "winner": "ERated4Epic",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Frizzy",
+    "loserScore": "0",
+    "winner": "Fasian",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Kapn",
+    "loserScore": "0",
+    "winner": "Big Black",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "DaddyChrom",
+    "loserScore": "0",
+    "winner": "ShyJim",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Woot9697",
+    "loserScore": "0",
+    "winner": "Juice",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Sauce",
+    "loserScore": "0",
+    "winner": "Frizzy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Boof",
+    "loserScore": "1",
+    "winner": "LilliamBigglenickle",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "SpeedyBlueDude",
+    "loserScore": "0",
+    "winner": "Toadindigo",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Kapn",
+    "loserScore": "1",
+    "winner": "Silks",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "B1",
+    "loserScore": "1",
+    "winner": "Player 0",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Frizzy",
+    "loserScore": "0",
+    "winner": "ShyJim",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "ERated4Epic",
+    "loserScore": "0",
+    "winner": "Juice",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "ShyJim",
+    "loserScore": "0",
+    "winner": "SpeedyBlueDude",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "ColdWeatherr",
+    "loserScore": "0",
+    "winner": "Fasian",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Big Black",
+    "loserScore": "0",
+    "winner": "Splash Daddy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Fasian",
+    "loserScore": "0",
+    "winner": "Splash Daddy",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Yin",
+    "loserScore": "1",
+    "winner": "Silks",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Big Black",
+    "loserScore": "1",
+    "winner": "LilliamBigglenickle",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Toadindigo",
+    "loserScore": "1",
+    "winner": "Player 0",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Silks",
+    "loserScore": "0",
+    "winner": "B1",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "Juice",
+    "loserScore": "0",
+    "winner": "ColdWeatherr",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "LilliamBigglenickle",
+    "loserScore": "1",
+    "winner": "ColdWeatherr",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "B1",
+    "loserScore": "0",
+    "winner": "SpeedyBlueDude",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "SpeedyBlueDude",
+    "loserScore": "1",
+    "winner": "Fasian",
+    "winnersScore": "2"
+  },
+  {
+    "loser": "ColdWeatherr",
+    "loserScore": "0",
+    "winner": "Toadindigo",
+    "winnersScore": "2"
+  }
+]
